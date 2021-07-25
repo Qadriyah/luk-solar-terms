@@ -6,4 +6,5 @@ Unlock the potential of your village saving group by using Rock Sacco App. Gone 
 
 - [Mission Statement](/vision-mission/README.md)
 - [Privacy Policy](/privacy-policy/README.md)
+- [Support](/support/README.md)
 - [Terms of Use](/terms/README.md)
