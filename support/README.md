@@ -1,4 +1,4 @@
-## rockSacco Help Guides
+## Rock Sacco Help Guides
 
 Welcome to rockSacco Help Guides! This guide is a one-stop shop for common topics like registration, approvals, submissions and reporting. We will answer commonly asked questions and quickly take you through everything you need to know so you don’t have to search for answers.
 
