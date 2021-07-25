@@ -1,3 +1,5 @@
+[< Back](/README.md)
+
 ## Terms and Conditions
 
 Rock Sacco maintains the rockSacco app. The following are the terms of use that govern the use of the app ("Terms of Use"). By using the app you expressly agree to be bound by these Terms of Use and the privacy policy and to follow these Terms of Use and all applicable laws and regulations governing the use of the app. Rock Sacco reserves the right to change these Terms of Use at any time, effective immediately upon posting on the Site. Please check this page periodically. We will note when there are updates to the Terms of Use at the bottom of the Terms of Use. If you violate these Terms of Use, Rock Sacco may terminate your use of the app, bar you from future use, and/or take appropriate legal action against you.
@@ -35,3 +37,5 @@ LICENCE GRANTED TO YOU. By providing materials to Rock Sacco, including by submi
 ADVERTISING. The Site may contain advertisements and/or sponsorships. The advertisers and/or sponsors that provide these advertisements and sponsorships are solely responsible for ensuring that the materials submitted for inclusion on the Site are accurate and comply with all applicable laws. Rock Sacco is not responsible for the acts or omissions of any advertiser or sponsor.
 
 SEVERABILITY. If any provision of the Terms of Use is held to be invalid, void or unenforceable, the remaining provisions shall nevertheless continue in full force and effect.
+
+[< Back](/README.md)

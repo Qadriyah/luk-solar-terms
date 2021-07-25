@@ -1,3 +1,5 @@
+[< Back](/README.md)
+
 ## Rock Sacco Help Guides
 
 Welcome to rockSacco Help Guides! This guide is a one-stop shop for common topics like registration, approvals, submissions and reporting. We will answer commonly asked questions and quickly take you through everything you need to know so you don’t have to search for answers.
@@ -6,7 +8,7 @@ Welcome to rockSacco Help Guides! This guide is a one-stop shop for common topic
 
 #### How do I get my account approved?
 
-After registration, your account will verified by the admin within one business day. If your account doen't get verified after one day, you may reach out to the admin on [email](mailto:b.alzawad@gmail.com)
+After registration, your account will be reviewed and verified by the admin within one business day. If your account doen't get verified after one day, you may reach out to the admin on [email](mailto:b.alzawad@gmail.com)
 
 #### How do I get my account activated?
 
@@ -70,3 +72,5 @@ Here is how you can submit your new savings
 - Pick a date your savings records has been submitted
 - Upload a deposit slip
 - Click submit
+
+[< Back](/README.md)
