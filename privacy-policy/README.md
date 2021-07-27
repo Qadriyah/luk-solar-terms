@@ -1,4 +1,4 @@
-[< Back](/README.md)
+[< Back](../README.md)
 
 ## Privacy Policy
 
@@ -128,4 +128,4 @@ Our Company reserves the right to modify this Policy from time to time. We may a
 
 We have designated a Data Protection Officer who is responsible for monitoring our Company’s ongoing compliance of this Privacy Policy. If you have any questions about this Privacy Policy, the practices or concerns of this site, please contact our Data Protection Officer at: judekigozi@gmail.com
 
-[< Back](/README.md)
+[< Back](../README.md)

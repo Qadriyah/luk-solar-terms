@@ -1,4 +1,4 @@
-[< Back](/README.md)
+[< Back](../README.md)
 
 ## Terms and Conditions
 
@@ -38,4 +38,4 @@ ADVERTISING. The Site may contain advertisements and/or sponsorships. The advert
 
 SEVERABILITY. If any provision of the Terms of Use is held to be invalid, void or unenforceable, the remaining provisions shall nevertheless continue in full force and effect.
 
-[< Back](/README.md)
+[< Back](../README.md)
