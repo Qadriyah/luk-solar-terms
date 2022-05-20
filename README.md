@@ -1,10 +1,11 @@
-## Rock Sacco
+## Luk Solar Ltd
 
-Unlock the potential of your village saving group by using Rock Sacco App. Gone are the days of using pen and paper to record and report member contributions. RockSacco allows members to take a picture of the deposit slip and submit a record of their savings, it later converts them into actionable insights for easy and seamless reporting of individual contributions, and overall contributions from all members which promotes transparency
+LUK Solar Ltd. was founded in 2013 as a specialized company for solar products by Kurt and Lisa Zügner and John Baptist Walusimbi in Uganda. Our goal is to bring solar energy to the huts and houses in Uganda.
+
+We offer high-quality products at affordable prices to the people of Uganda.
+Thanks to our specially developed Solar Group Concept and the associated offer for payment in Installments, it is possible for everyone to obtain a high quality solar lamp with 2 year warranty.
 
 ### Contents
 
-- [Mission Statement](/vision-mission/README.md)
 - [Privacy Policy](/privacy-policy/README.md)
-- [Support](/support/README.md)
 - [Terms of Use](/terms/README.md)

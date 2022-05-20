@@ -4,7 +4,7 @@
 
 ### Purpose
 
-This Privacy Policy explains how information about you or associated with you (“personal information”) is collected, used and disclosed by RockSacco. This Privacy Policy applies to our website and our mobile apps for iPhone or Android mobile devices (collectively, “our Service”). By accessing or using our Service, you signify that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy and Terms of Service.
+This Privacy Policy explains how information about you or associated with you (“personal information”) is collected, used and disclosed by Luk Solar Ltd. This Privacy Policy applies to our website and our mobile apps for iPhone or Android mobile devices (collectively, “our Service”). By accessing or using our Service, you signify that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy and Terms of Service.
 
 ### Definitions
 
